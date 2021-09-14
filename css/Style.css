@@ -1,14 +1,18 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #0096ec;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #Projects {
     padding-top: 8rem;
     background-color: #0096ec;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 #About {
     padding-top: 15rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #Contact {
     padding-top: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
